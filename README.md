@@ -16,7 +16,7 @@
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://github.com/brseghese/brseghese/blob/main/kisspng-computer-programming-software-developer-software-e-internet-computer-technology-5a6acebec12a92.3136952715169491827912.png">
+  <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://github.com/brseghese/brseghese/blob/main/assets/computer-technology.png">
 </div>
   
   ##
