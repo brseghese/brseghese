@@ -1,6 +1,6 @@
 ### Olá! Eu sou Bruno Seghese 👋
 
-##### Estou estudando para ser um Desenvolvedor Web Full Stack!
+##### Estou estudando desenvolvimento Web Full Stack!
 
 </br>
 
