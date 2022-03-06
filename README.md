@@ -1,6 +1,6 @@
-### Olá! Eu sou Bruno Seghese 👋
+### Hello! My name is Bruno Seghese 👋
 
-##### Estou estudando desenvolvimento Web Full Stack!
+##### I'm a full stack web developer in training!
 
 </br>
 
