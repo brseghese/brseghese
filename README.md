@@ -1,22 +1,33 @@
-# Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! Meu nome é Bruno
+# Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! Meu nome é Bruno .
 
-## Desenvolvedor Web Full Stack em formação
+## Desenvolvedor Web em formação
 
-Eu tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
+Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
 
-- 🌍 Estou sediado em São José do Rio Preto / SP - Brasil
-- ✉️ Você pode entrar em contato comigo no email: [brsegh@gmail.com](mailto:brsegh@gmail.com)
-- 🚀 Estou participando do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
-- 🧠 Estou estudando frontend no curso da [Origamid](https://www.origamid.com/) e backend no curso do [ProgramadorBr](https://programadorbr.com/)
-- 🤝 Estou aberto a colaborar em projetos que colaborem com a vida das pessoas
-- ❤️​ Eu amo meus filhos Eduardo e Valentina
+- 🌍 Resido em São José do Rio Preto / SP - Brasil
+- ✉️ Pode entrar em contato comigo pelo email: [brsegh@gmail.com](mailto:brsegh@gmail.com)
+- 🚀 Participando do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
+- 🧠 Estudando Frontend nos cursos da [Origamid](https://www.origamid.com/)
+- 🤝 Desejo trabalhar como Desenvolvedor Web
+- 🎸​ Gosto de tocar um violão
+- ❤️​ Amo meus filhos Eduardo e Valentina
 
-### ​Skills
+### ​Linguagens e Ferramentas
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36" alt="CSS">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" width="36">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" width="36">
+</p>
+
+### ​Estudando
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>
 </p>
 
 ### Social
@@ -40,6 +51,6 @@ Eu tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonad
 
 </div>
 
-### Colabore comigo
+![Profile views](https://gpvc.arturio.dev/brseghese)
 
 <a href="https://www.buymeacoffee.com/brsegh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
