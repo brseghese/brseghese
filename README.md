@@ -12,7 +12,7 @@ Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado p
 - 🎸​ Gosto de tocar um violão
 - ❤️​ Amo meus filhos Eduardo e Valentina
 
-### ​Linguagens e Ferramentas
+### ​Tecnologias
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
