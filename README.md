@@ -1,6 +1,8 @@
-# Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! Meu nome é Bruno .
+# Olá, meu nome é Bruno! 👋
 
-## Desenvolvedor Web
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+
+## Desenvolvedor Web Full Stack JR
 
 Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
 
