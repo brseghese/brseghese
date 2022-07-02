@@ -2,16 +2,15 @@
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-## Desenvolvedor Web Full Stack JR
+## Desenvolvedor Full Stack
 
 Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
 
 - 🌍 Resido em São José do Rio Preto / SP - Brasil
-- ✉️ Pode entrar em contato comigo pelo email: [brsegh@gmail.com](mailto:brsegh@gmail.com)
-- 🚀 Participando do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
-- 🧠 Estudando Frontend nos cursos da [Origamid](https://www.origamid.com/)
-- 🤝 Desejo trabalhar como Desenvolvedor Web
-- 🎸​ Gosto de tocar um violão
+- ✉️ Pode entrar em contato comigo pelo email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
+- 🧠 Estudo Frontend na [Origamid](https://www.origamid.com/) e Backend na [Udemy](https://www.udemy.com/)
+- 🚀 Busco aprimorar meus conhecimentos como desenvolvedor de Softwares
+- 🕹️ Entusiasta por desenvolvimento de Web Games
 - ❤️​ Amo meus filhos Eduardo e Valentina
 
 ### ​Tecnologias
@@ -30,6 +29,8 @@ Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado p
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36"/>
+          
 </p>
 
 ### Social
