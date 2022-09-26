@@ -4,7 +4,7 @@
 
 ## Full Stack Web Developer
 
-Sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
+Sou formado em Ciência da Computação e apaixonado por programação.
 
 - 🌍 Resido em São José do Rio Preto / SP - Brasil
 - ✉️ Pode entrar em contato comigo pelo email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
