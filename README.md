@@ -2,16 +2,13 @@
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-## Desenvolvedor Full Stack
+## Full Stack Web Developer
 
-Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
+Sou formado em Ciência da Computação e sempre fui apaixonado por tecnologias.
 
 - 🌍 Resido em São José do Rio Preto / SP - Brasil
 - ✉️ Pode entrar em contato comigo pelo email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
-- 🧠 Estudo Frontend na [Origamid](https://www.origamid.com/) e Backend na [Udemy](https://www.udemy.com/)
-- 🚀 Busco aprimorar meus conhecimentos como desenvolvedor de Softwares
-- 🕹️ Entusiasta por desenvolvimento de Web Games
-- ❤️​ Amo meus filhos Eduardo e Valentina
+- 🧠 Estudando a Stack MERN - Mongo, Express, React JS e Node JS
 
 ### ​Tecnologias
 
@@ -22,15 +19,6 @@ Tenho 41 anos, sou formado em Ciência da Computação e sempre fui apaixonado p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" width="36">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" width="36">
-</p>
-
-### ​Estudando
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36"/>
-          
 </p>
 
 ### Social
