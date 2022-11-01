@@ -2,7 +2,7 @@
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-## Full Stack Web Developer
+## Full Stack Developer
 
 Sou formado em Ciência da Computação e apaixonado por programação.
 
