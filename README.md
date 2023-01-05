@@ -8,7 +8,7 @@ Sou formado em Ciência da Computação e apaixonado por programação.
 
 - 🌍 Resido em São José do Rio Preto / SP - Brasil
 - ✉️ Pode entrar em contato comigo pelo email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
-- 🧠 Estudando a Stack MERN - Mongo, Express, React JS e Node JS
+- 🧠 Desenvolvendo a Stack MERN - Mongo, Express, React JS e Node JS
 
 ### ​Stack
 
