@@ -6,7 +6,7 @@
 
 I love coding ❤
 
-- 🌍 São José do Rio Preto / SP - Brasil
+- 🌍 São José do Rio Preto / SP - Brazil
 - ✉️ Email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
 - 🧠 Stack MERN - Mongo, Express, React JS e Node JS
 
