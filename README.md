@@ -1,10 +1,10 @@
-# Olá, meu nome é Bruno! 👋
+# Hello, my name is Bruno! 👋
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 ## Full Stack Web Developer
 
-Apaixonado por programação e tecnologia.
+I L❤VE coding!
 
 - 🌍 São José do Rio Preto / SP - Brasil
 - ✉️ Email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
