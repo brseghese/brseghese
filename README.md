@@ -42,10 +42,10 @@ Apaixonado por programação e tecnologia.
 
 <div>
 
-![Snake animation](https://github.com/brseghese/brseghese/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/brseghese/brseghese/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/brseghese)
 
-<a href="https://www.buymeacoffee.com/brsegh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/brsegh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
