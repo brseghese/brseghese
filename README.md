@@ -29,7 +29,7 @@ Apaixonado por programação e tecnologia.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoseghese/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brseghese)
 
-### GitHub Status
+<!-- ### GitHub Status
 
   <a href="https://github.com/brseghese">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=brseghese&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="brseghese GitHub stats"/></a>
@@ -42,7 +42,7 @@ Apaixonado por programação e tecnologia.
 
 <div>
 
-<!-- ![Snake animation](https://github.com/brseghese/brseghese/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brseghese/brseghese/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
