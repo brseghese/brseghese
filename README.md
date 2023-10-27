@@ -4,7 +4,7 @@
 
 ## Full Stack Web Developer
 
-I  L❤ VE coding!
+I love coding ❤
 
 - 🌍 São José do Rio Preto / SP - Brasil
 - ✉️ Email: [brseghese@gmail.com](mailto:brseghese@gmail.com)
