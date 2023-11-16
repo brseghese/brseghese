@@ -2,13 +2,13 @@
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-## Full Stack Web Developer
+## Web Developer
 
 I love coding ❤
 
 - 🌍 São José do Rio Preto / SP - Brazil
 - ✉️ E-mail: [brseghese@gmail.com](mailto:brseghese@gmail.com)
-- 🧠 Stack MERN - Mongo, Express, React JS e Node JS
+- 🧠 Estudando a Stack MERN
 
 ### ​Stack
 
