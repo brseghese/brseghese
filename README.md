@@ -8,9 +8,11 @@
 
 I love coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
 
+<!--
 - 🌍 São José do Rio Preto / SP - Brazil
 - ✉️ E-mail: [brseghese@gmail.com](mailto:brseghese@gmail.com)
 - 🧠 Estudando a Stack MERN
+-->
 
 ### ​Skills
 
